@@ -2,14 +2,14 @@
 
 ## Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/rajat-choudhary-24147519a/" alt="rajat-choudhary-24147519a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rajat--choudhary--24147519a-blue?style=flat-square&logo=linkedin" height="30">
+<a href="https://www.linkedin.com/in/rajat-choudhary-24147519a/" alt="rajat-choudhary-24147519a">
+    <img src="https://img.shields.io/badge/LinkedIn-rajat--choudhary--24147519a-blue?style=flat-square&logo=linkedin" height="27">
 </a>
 <a href="https://www.instagram.com/choudhary8723/" alt="choudhary8723" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Choudhary8723-ff69b4?style=flat-square&logo=instagram&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Instagram-Choudhary8723-ff69b4?style=flat-square&logo=instagram&logoColor=white" height="27">
 </a>
 <a href="https://twitter.com/Rajatch87223981" alt="Rajatch87223981" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Rajatch87223981-232F7E?style=flat-square&logo=twitter&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Twitter-Rajatch87223981-232F7E?style=flat-square&logo=twitter&logoColor=white" height="27">
 </a>
 </p>
 <br />
@@ -34,18 +34,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat947&theme=tokyonight" />
   <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat947&layout=compact&theme=tokyonight" />
 </p>
-
-<!--
-**Rajat947/Rajat947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
