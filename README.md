@@ -1,4 +1,7 @@
-<h1 align=center>Hello! I'm Rajat</h1>
+<p align="center">
+    <img src="./Img/Banner.png" width="50%">
+</p>
+
 
 ## Connect with me
 <p align="center">
